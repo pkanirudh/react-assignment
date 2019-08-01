@@ -1,0 +1,763 @@
+{
+    "items": [
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-studio",
+          "kotlin",
+          "android-developer-api"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11863976,
+          "user_type": "registered",
+          "profile_image": "https://lh4.googleusercontent.com/-O-K4mjKgU7M/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdOhjs_doJ1KOyMzfUyWvCuFXMsGg/photo.jpg?sz=128",
+          "display_name": "Sagar wankhede",
+          "link": "https://stackoverflow.com/users/11863976/sagar-wankhede"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 0,
+        "score": -1,
+        "last_activity_date": 1564577863,
+        "creation_date": 1564577863,
+        "question_id": 57291293,
+        "link": "https://stackoverflow.com/questions/57291293/how-to-create-a-service-that-stops-the-activity-of-other-app",
+        "title": "How to create a service that stops the activity of other app"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "owner": {
+          "reputation": 6,
+          "user_id": 11863431,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/a244572f4622bd308db638df35b130cb?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Litu",
+          "link": "https://stackoverflow.com/users/11863431/litu"
+        },
+        "is_answered": true,
+        "view_count": 46,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1564577854,
+        "creation_date": 1564573782,
+        "last_edit_date": 1564575388,
+        "question_id": 57290068,
+        "link": "https://stackoverflow.com/questions/57290068/string-manipulated-through-reflection-and-its-impact-on-equals-method",
+        "title": "String manipulated through reflection and its impact on equals method"
+      },
+      {
+        "tags": [
+          "java",
+          "gate"
+        ],
+        "owner": {
+          "reputation": 11,
+          "user_id": 9293953,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/e33b229ac1e9b3bc3a304354ad977806?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Suzn CB",
+          "link": "https://stackoverflow.com/users/9293953/suzn-cb"
+        },
+        "is_answered": false,
+        "view_count": 16,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564577852,
+        "creation_date": 1564567825,
+        "last_edit_date": 1564567940,
+        "question_id": 57288337,
+        "link": "https://stackoverflow.com/questions/57288337/why-gate-doesnt-match-words-in-my-arabic-gazetteer-list",
+        "title": "why GATE doesn&#39;t match words in my Arabic gazetteer list?"
+      },
+      {
+        "tags": [
+          "java",
+          "xsd",
+          "jaxb",
+          "xjc"
+        ],
+        "owner": {
+          "reputation": 8,
+          "user_id": 9547104,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=128",
+          "display_name": "Timor",
+          "link": "https://stackoverflow.com/users/9547104/timor"
+        },
+        "is_answered": false,
+        "view_count": 26,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564577852,
+        "creation_date": 1564525219,
+        "last_edit_date": 1564568992,
+        "question_id": 57280772,
+        "link": "https://stackoverflow.com/questions/57280772/jaxb-generated-classes-from-xsd-file",
+        "title": "JAXB Generated Classes from xsd file"
+      },
+      {
+        "tags": [
+          "java",
+          "angular",
+          "typescript"
+        ],
+        "owner": {
+          "reputation": 9,
+          "user_id": 11857726,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/657c997becffe4fd426fa1877705b173?s=128&d=identicon&r=PG&f=1",
+          "display_name": "mitha.s",
+          "link": "https://stackoverflow.com/users/11857726/mitha-s"
+        },
+        "is_answered": false,
+        "view_count": 20,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564577839,
+        "creation_date": 1564576388,
+        "last_edit_date": 1564577522,
+        "question_id": 57290830,
+        "link": "https://stackoverflow.com/questions/57290830/java-datatypes-to-typescript-types",
+        "title": "Java datatypes to Typescript types"
+      },
+      {
+        "tags": [
+          "java",
+          "decode",
+          "web3-java"
+        ],
+        "owner": {
+          "reputation": 13,
+          "user_id": 10841043,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/af9203db7cfce7f700303b93ee3e382c?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Nicolas Flores Mu&#241;oz",
+          "link": "https://stackoverflow.com/users/10841043/nicolas-flores-mu%c3%b1oz"
+        },
+        "is_answered": false,
+        "view_count": 116,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1564577838,
+        "creation_date": 1547047182,
+        "last_edit_date": 1547047267,
+        "question_id": 54113260,
+        "link": "https://stackoverflow.com/questions/54113260/how-could-i-decode-the-input-data-of-a-transaction",
+        "title": "How could I decode the input data of a transaction?"
+      },
+      {
+        "tags": [
+          "java",
+          "user-interface",
+          "javafx"
+        ],
+        "owner": {
+          "reputation": 34,
+          "user_id": 9094908,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/34630286aa24f4d099303aec70f07e08?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Steve Scan",
+          "link": "https://stackoverflow.com/users/9094908/steve-scan"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577787,
+        "creation_date": 1564577787,
+        "question_id": 57291268,
+        "link": "https://stackoverflow.com/questions/57291268/user-interface-add-node-to-primarystage-from-listenter-in-another-class",
+        "title": "User interface add node to primaryStage from listenter in another class"
+      },
+      {
+        "tags": [
+          "java",
+          "java-ee"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 6935413,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/a1411be3e0dbd3ed0ee2af9fc5309f04?s=128&d=identicon&r=PG",
+          "display_name": "Pranam Bhat",
+          "link": "https://stackoverflow.com/users/6935413/pranam-bhat"
+        },
+        "is_answered": false,
+        "view_count": 16,
+        "answer_count": 0,
+        "score": -4,
+        "last_activity_date": 1564577973,
+        "creation_date": 1564577755,
+        "last_edit_date": 1564577973,
+        "question_id": 57291256,
+        "link": "https://stackoverflow.com/questions/57291256/what-will-be-the-java-code-for-this-problem",
+        "title": "What will be the java code for this problem?"
+      },
+      {
+        "tags": [
+          "java",
+          "collections"
+        ],
+        "owner": {
+          "reputation": 10,
+          "user_id": 11480806,
+          "user_type": "registered",
+          "profile_image": "https://lh5.googleusercontent.com/-ZnKJ0ys-2IU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcAvG7z_TkBDpK-muYU-vyRX606fw/mo/photo.jpg?sz=128",
+          "display_name": "Roel Janssen",
+          "link": "https://stackoverflow.com/users/11480806/roel-janssen"
+        },
+        "is_answered": false,
+        "view_count": 14,
+        "closed_date": 1564577915,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577691,
+        "creation_date": 1564577691,
+        "question_id": 57291241,
+        "link": "https://stackoverflow.com/questions/57291241/what-collection-would-be-the-best-to-keep-track-of-latest-values",
+        "closed_reason": "duplicate",
+        "title": "What collection would be the best to keep track of latest values?"
+      },
+      {
+        "tags": [
+          "java",
+          "flutter",
+          "dart"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11777601,
+          "user_type": "registered",
+          "profile_image": "https://lh4.googleusercontent.com/-NMupr80GbE4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdBF2PEHZtvP6qL5Q6eUmwVq68Tpw/photo.jpg?sz=128",
+          "display_name": "Vimbiso Murungu",
+          "link": "https://stackoverflow.com/users/11777601/vimbiso-murungu"
+        },
+        "is_answered": false,
+        "view_count": 10,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564577986,
+        "creation_date": 1564577685,
+        "question_id": 57291240,
+        "link": "https://stackoverflow.com/questions/57291240/how-to-convert-byte-to-dart",
+        "title": "How to convert &quot;byte[]&quot; to dart?"
+      },
+      {
+        "tags": [
+          "java",
+          "singly-linked-list"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 10524902,
+          "user_type": "registered",
+          "profile_image": "https://lh5.googleusercontent.com/-05ayIXXD3A0/AAAAAAAAAAI/AAAAAAAAAAA/NMlLhFYHcXE/photo.jpg?sz=128",
+          "display_name": "Logan Blackisle",
+          "link": "https://stackoverflow.com/users/10524902/logan-blackisle"
+        },
+        "is_answered": false,
+        "view_count": 13,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577649,
+        "creation_date": 1564577649,
+        "question_id": 57291231,
+        "link": "https://stackoverflow.com/questions/57291231/how-do-i-write-an-addelement-method-to-a-sorted-linkedlist",
+        "title": "How do I write an addElement method to a sorted LinkedList?"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-package-managers",
+          "android-multiple-users",
+          "android-work-profile"
+        ],
+        "owner": {
+          "reputation": 5633,
+          "user_id": 2879085,
+          "user_type": "registered",
+          "accept_rate": 54,
+          "profile_image": "https://www.gravatar.com/avatar/e13b29dfe63e6781a1a5c0e5dcd01413?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Forivin",
+          "link": "https://stackoverflow.com/users/2879085/forivin"
+        },
+        "is_answered": false,
+        "view_count": 67,
+        "answer_count": 0,
+        "score": 2,
+        "last_activity_date": 1564577633,
+        "creation_date": 1564471802,
+        "last_edit_date": 1564577633,
+        "question_id": 57266451,
+        "link": "https://stackoverflow.com/questions/57266451/get-list-of-apps-of-all-users",
+        "title": "Get list of apps of all users"
+      },
+      {
+        "tags": [
+          "java"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11226272,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/5xwVy.jpg?s=128&g=1",
+          "display_name": "Kali",
+          "link": "https://stackoverflow.com/users/11226272/kali"
+        },
+        "is_answered": false,
+        "view_count": 14,
+        "answer_count": 0,
+        "score": -2,
+        "last_activity_date": 1564577626,
+        "creation_date": 1564577626,
+        "question_id": 57291225,
+        "link": "https://stackoverflow.com/questions/57291225/class-names-fibonacci-are-only-accepted-if-annotation-processing-is-explici",
+        "title": "Class names, &quot;Fibonacci&quot; , are only accepted if annotation processing is explicitly requested"
+      },
+      {
+        "tags": [
+          "java",
+          "jpa",
+          "java-ee"
+        ],
+        "owner": {
+          "reputation": 1683,
+          "user_id": 9150652,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/-Wq-FHmDsL9Q/AAAAAAAAAAI/AAAAAAAAAAc/2nUaRgj2kpQ/photo.jpg?sz=128",
+          "display_name": "MauriceNino",
+          "link": "https://stackoverflow.com/users/9150652/mauricenino"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577608,
+        "creation_date": 1564577608,
+        "question_id": 57291218,
+        "link": "https://stackoverflow.com/questions/57291218/what-is-the-best-way-to-update-the-primary-key-of-a-jpa-entity",
+        "title": "What is the best way to update the primary key of a JPA Entity?"
+      },
+      {
+        "tags": [
+          "java",
+          "list",
+          "collections",
+          "comparator",
+          "comparable"
+        ],
+        "owner": {
+          "reputation": 197,
+          "user_id": 2513492,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/334474260779f9a480d81f60b6b65620?s=128&d=identicon&r=PG",
+          "display_name": "parthivrshah",
+          "link": "https://stackoverflow.com/users/2513492/parthivrshah"
+        },
+        "is_answered": true,
+        "view_count": 61,
+        "answer_count": 3,
+        "score": 1,
+        "last_activity_date": 1564577593,
+        "creation_date": 1564509428,
+        "last_edit_date": 1564576897,
+        "question_id": 57277475,
+        "link": "https://stackoverflow.com/questions/57277475/sort-results-in-ascending-return-in-the-form-a-a-b-b-in-java",
+        "title": "sort results in ascending return in the form A, a, B, b... in Java"
+      },
+      {
+        "tags": [
+          "java",
+          "selenium",
+          "selenium-webdriver",
+          "automation",
+          "qa"
+        ],
+        "owner": {
+          "reputation": 78,
+          "user_id": 2221627,
+          "user_type": "registered",
+          "accept_rate": 77,
+          "profile_image": "https://www.gravatar.com/avatar/18d5f2d670fcb550771bed09a64250d8?s=128&d=identicon&r=PG",
+          "display_name": "Nik_stack",
+          "link": "https://stackoverflow.com/users/2221627/nik-stack"
+        },
+        "is_answered": true,
+        "view_count": 52532,
+        "accepted_answer_id": 28821132,
+        "answer_count": 7,
+        "score": 6,
+        "last_activity_date": 1564577576,
+        "creation_date": 1425336128,
+        "last_edit_date": 1458378741,
+        "question_id": 28820820,
+        "link": "https://stackoverflow.com/questions/28820820/selenium-webdriver-element-not-visible-exception",
+        "title": "Selenium Webdriver: Element Not Visible Exception"
+      },
+      {
+        "tags": [
+          "java",
+          "xcode",
+          "logging",
+          "appium",
+          "appium-ios"
+        ],
+        "owner": {
+          "reputation": 6,
+          "user_id": 11836545,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/fe06b25d752efb5ec875f04d9b4a6dd6?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Chinya",
+          "link": "https://stackoverflow.com/users/11836545/chinya"
+        },
+        "is_answered": true,
+        "view_count": 10,
+        "answer_count": 1,
+        "score": 1,
+        "last_activity_date": 1564577544,
+        "creation_date": 1564061757,
+        "question_id": 57203251,
+        "link": "https://stackoverflow.com/questions/57203251/is-there-any-command-to-get-ios-device-logs-like-using-logcat-we-can-get-androi",
+        "title": "Is there any command to get iOS device logs? Like using logcat we can get Android device logs"
+      },
+      {
+        "tags": [
+          "java",
+          "web-services",
+          "http-patch"
+        ],
+        "owner": {
+          "reputation": 2081,
+          "user_id": 318414,
+          "user_type": "registered",
+          "accept_rate": 95,
+          "profile_image": "https://i.stack.imgur.com/Uwaiu.jpg?s=128&g=1",
+          "display_name": "simonalexander2005",
+          "link": "https://stackoverflow.com/users/318414/simonalexander2005"
+        },
+        "is_answered": false,
+        "view_count": 13,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577530,
+        "creation_date": 1564499860,
+        "last_edit_date": 1564577530,
+        "question_id": 57274994,
+        "link": "https://stackoverflow.com/questions/57274994/supporting-the-patch-verb-wshttphandler-handleexchange-gives-warning-cannot",
+        "title": "Supporting the &quot;PATCH&quot; verb - WSHttpHandler handleExchange gives WARNING: Cannot handle HTTP method: PATCH"
+      },
+      {
+        "tags": [
+          "java",
+          "apache-spark"
+        ],
+        "owner": {
+          "reputation": 301,
+          "user_id": 2242012,
+          "user_type": "registered",
+          "accept_rate": 100,
+          "profile_image": "https://www.gravatar.com/avatar/8807482a51e43d867a77ff76cb755f6a?s=128&d=identicon&r=PG",
+          "display_name": "SiLaf",
+          "link": "https://stackoverflow.com/users/2242012/silaf"
+        },
+        "is_answered": true,
+        "view_count": 1869,
+        "accepted_answer_id": 40347139,
+        "answer_count": 2,
+        "score": 1,
+        "last_activity_date": 1564577529,
+        "creation_date": 1477932138,
+        "last_edit_date": 1477934146,
+        "question_id": 40346640,
+        "link": "https://stackoverflow.com/questions/40346640/spark-keyby-vs-maptopair",
+        "title": "Spark: keyBy() vs mapToPair()"
+      },
+      {
+        "tags": [
+          "java",
+          "byte-buddy"
+        ],
+        "owner": {
+          "reputation": 43,
+          "user_id": 7652847,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/2DFa6.jpg?s=128&g=1",
+          "display_name": "LaraFlow",
+          "link": "https://stackoverflow.com/users/7652847/laraflow"
+        },
+        "is_answered": false,
+        "view_count": 6,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577520,
+        "creation_date": 1564577520,
+        "question_id": 57291178,
+        "link": "https://stackoverflow.com/questions/57291178/getting-field-name-as-string-for-already-defined-class-is-that-possible",
+        "title": "Getting field name as string for already defined class. Is that possible?"
+      },
+      {
+        "tags": [
+          "java",
+          "java-8",
+          "java-stream"
+        ],
+        "owner": {
+          "reputation": 126176,
+          "user_id": 2648,
+          "user_type": "registered",
+          "accept_rate": 52,
+          "profile_image": "https://www.gravatar.com/avatar/8b2d39a59a961ef26440e9c1453d1939?s=128&d=identicon&r=PG",
+          "display_name": "D&#243;nal",
+          "link": "https://stackoverflow.com/users/2648/d%c3%b3nal"
+        },
+        "is_answered": true,
+        "view_count": 70,
+        "answer_count": 4,
+        "score": 0,
+        "last_activity_date": 1564577501,
+        "creation_date": 1564574021,
+        "question_id": 57290142,
+        "link": "https://stackoverflow.com/questions/57290142/find-largest-item-in-list-that-exceeds-a-constant-value",
+        "title": "find largest item in list that exceeds a constant value"
+      },
+      {
+        "tags": [
+          "java",
+          "terminal-emulator",
+          "vt100"
+        ],
+        "owner": {
+          "reputation": 185,
+          "user_id": 1668468,
+          "user_type": "registered",
+          "accept_rate": 40,
+          "profile_image": "https://www.gravatar.com/avatar/38667c591dfa2ffc2ebec2691f032048?s=128&d=identicon&r=PG",
+          "display_name": "Rima",
+          "link": "https://stackoverflow.com/users/1668468/rima"
+        },
+        "is_answered": true,
+        "view_count": 11076,
+        "closed_date": 1429776092,
+        "accepted_answer_id": 12407064,
+        "answer_count": 2,
+        "score": 12,
+        "last_activity_date": 1564577448,
+        "creation_date": 1347536641,
+        "last_edit_date": 1347541518,
+        "question_id": 12405489,
+        "link": "https://stackoverflow.com/questions/12405489/java-terminal-emulator",
+        "closed_reason": "off-topic",
+        "title": "Java terminal emulator"
+      },
+      {
+        "tags": [
+          "java",
+          "algorithm",
+          "matrix"
+        ],
+        "owner": {
+          "reputation": 4632,
+          "user_id": 2533082,
+          "user_type": "registered",
+          "accept_rate": 63,
+          "profile_image": "https://www.gravatar.com/avatar/7097e6c465ed546a571fd85b9aa5e16c?s=128&d=identicon&r=PG",
+          "display_name": "Vinz243",
+          "link": "https://stackoverflow.com/users/2533082/vinz243"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577445,
+        "creation_date": 1564577445,
+        "question_id": 57291155,
+        "link": "https://stackoverflow.com/questions/57291155/list-the-largest-possible-cuboids-inside-a-16x16x16-matrix",
+        "title": "List the largest possible cuboids inside a 16x16x16 matrix"
+      },
+      {
+        "tags": [
+          "java",
+          "kotlin"
+        ],
+        "owner": {
+          "reputation": 798,
+          "user_id": 3291867,
+          "user_type": "registered",
+          "accept_rate": 88,
+          "profile_image": "https://i.stack.imgur.com/1Vaxp.jpg?s=128&g=1",
+          "display_name": "mojtab23",
+          "link": "https://stackoverflow.com/users/3291867/mojtab23"
+        },
+        "is_answered": true,
+        "view_count": 9746,
+        "accepted_answer_id": 39688441,
+        "answer_count": 4,
+        "score": 17,
+        "last_activity_date": 1564577445,
+        "creation_date": 1474738829,
+        "last_edit_date": 1474744678,
+        "question_id": 39679180,
+        "link": "https://stackoverflow.com/questions/39679180/kotlin-call-java-method-with-classt-argument",
+        "title": "Kotlin call java method with Class&lt;T&gt; argument"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "byte"
+        ],
+        "owner": {
+          "reputation": 409,
+          "user_id": 6345816,
+          "user_type": "registered",
+          "accept_rate": 93,
+          "profile_image": "https://i.stack.imgur.com/WTwfl.jpg?s=128&g=1",
+          "display_name": "cantona_7",
+          "link": "https://stackoverflow.com/users/6345816/cantona-7"
+        },
+        "is_answered": false,
+        "view_count": 12,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577430,
+        "creation_date": 1564577430,
+        "question_id": 57291152,
+        "link": "https://stackoverflow.com/questions/57291152/reading-int-value-of-bytes-from-inputstream",
+        "title": "Reading Int value of bytes from inputStream"
+      },
+      {
+        "tags": [
+          "java",
+          "signal-processing",
+          "fft"
+        ],
+        "owner": {
+          "reputation": 20,
+          "user_id": 9612614,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/e7d03727727b3f8cdbc8c4f56f8ee5df?s=128&d=identicon&r=PG&f=1",
+          "display_name": "CaipiDE",
+          "link": "https://stackoverflow.com/users/9612614/caipide"
+        },
+        "is_answered": false,
+        "view_count": 21,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577429,
+        "creation_date": 1564569746,
+        "last_edit_date": 1564577429,
+        "question_id": 57288921,
+        "link": "https://stackoverflow.com/questions/57288921/fast-fourier-transformation-n-is-no-power-of-2",
+        "title": "Fast Fourier Transformation | n is no power of 2"
+      },
+      {
+        "tags": [
+          "java",
+          "junit",
+          "mockito"
+        ],
+        "owner": {
+          "reputation": 207,
+          "user_id": 4341718,
+          "user_type": "registered",
+          "accept_rate": 8,
+          "profile_image": "https://lh6.googleusercontent.com/-FajSVWnjz74/AAAAAAAAAAI/AAAAAAAAMVw/gr6YJQFAWfg/photo.jpg?sz=128",
+          "display_name": "Moshe Tsabari",
+          "link": "https://stackoverflow.com/users/4341718/moshe-tsabari"
+        },
+        "is_answered": true,
+        "view_count": 5050,
+        "answer_count": 2,
+        "score": 1,
+        "last_activity_date": 1564577425,
+        "creation_date": 1429595916,
+        "last_edit_date": 1479124509,
+        "question_id": 29764065,
+        "link": "https://stackoverflow.com/questions/29764065/mockito-using-doanswer-on-spy",
+        "title": "Mockito Using doAnswer on Spy"
+      },
+      {
+        "tags": [
+          "java",
+          "sql-server"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11863938,
+          "user_type": "registered",
+          "profile_image": "https://lh4.googleusercontent.com/-yg1grBxxlaI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcO-a8dXE_yCd1NtXYBDPcnnOIRuA/photo.jpg?sz=128",
+          "display_name": "Sasith Imbuldeniya",
+          "link": "https://stackoverflow.com/users/11863938/sasith-imbuldeniya"
+        },
+        "is_answered": false,
+        "view_count": 7,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564577417,
+        "creation_date": 1564577417,
+        "question_id": 57291147,
+        "link": "https://stackoverflow.com/questions/57291147/why-an-i-getting-deadlock-issue-while-inserting-new-records-to-same-table-from-m",
+        "title": "Why an I getting deadlock issue while inserting new records to same table from muliple thread,"
+      },
+      {
+        "tags": [
+          "java",
+          "json"
+        ],
+        "owner": {
+          "reputation": 9,
+          "user_id": 11861894,
+          "user_type": "registered",
+          "profile_image": "https://graph.facebook.com/1576248619172973/picture?type=large",
+          "display_name": "Derry Adrian",
+          "link": "https://stackoverflow.com/users/11861894/derry-adrian"
+        },
+        "is_answered": true,
+        "view_count": 39,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1564577389,
+        "creation_date": 1564550769,
+        "last_edit_date": 1564551946,
+        "question_id": 57283771,
+        "link": "https://stackoverflow.com/questions/57283771/how-to-get-data-json-from-array-of-the-year-in-array-android-studio",
+        "title": "How to get data json from array of the year in array android studio?"
+      },
+      {
+        "tags": [
+          "java",
+          "spring",
+          "junit",
+          "spring-async"
+        ],
+        "owner": {
+          "reputation": 16511,
+          "user_id": 923560,
+          "user_type": "registered",
+          "accept_rate": 47,
+          "profile_image": "https://www.gravatar.com/avatar/739dfa7b7b4580406c6e45fc8b3e3520?s=128&d=identicon&r=PG",
+          "display_name": "Abdull",
+          "link": "https://stackoverflow.com/users/923560/abdull"
+        },
+        "is_answered": true,
+        "view_count": 13283,
+        "accepted_answer_id": 42438863,
+        "answer_count": 4,
+        "score": 19,
+        "last_activity_date": 1564577387,
+        "creation_date": 1487939900,
+        "last_edit_date": 1495542358,
+        "question_id": 42438862,
+        "link": "https://stackoverflow.com/questions/42438862/junit-testing-a-spring-async-void-service-method",
+        "title": "JUnit-testing a Spring @Async void service method"
+      }
+    ],
+    "has_more": true,
+    "quota_max": 10000,
+    "quota_remaining": 9690
+  }

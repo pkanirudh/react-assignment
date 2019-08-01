@@ -1,0 +1,753 @@
+{
+  "items": [
+      {
+        "tags": [
+          "java",
+          "eclipse",
+          "maven",
+          "jpa",
+          "metamodel"
+        ],
+        "owner": {
+          "reputation": 5234,
+          "user_id": 26535,
+          "user_type": "registered",
+          "accept_rate": 65,
+          "profile_image": "https://www.gravatar.com/avatar/7c46d47e4e2685bfa93ef6600b3dddbd?s=128&d=identicon&r=PG",
+          "display_name": "Chris Williams",
+          "link": "https://stackoverflow.com/users/26535/chris-williams"
+        },
+        "is_answered": true,
+        "view_count": 577,
+        "answer_count": 2,
+        "score": 3,
+        "last_activity_date": 1564578751,
+        "creation_date": 1482347769,
+        "last_edit_date": 1482350737,
+        "question_id": 41270316,
+        "link": "https://stackoverflow.com/questions/41270316/eclipse-jboss-developer-studio-not-automatically-building-jpa-metamodel-classe",
+        "title": "Eclipse (JBoss Developer Studio) not automatically building JPA metamodel classes"
+      },
+      {
+        "tags": [
+          "ksql"
+        ],
+        "owner": {
+          "reputation": 51,
+          "user_id": 3052368,
+          "user_type": "registered",
+          "accept_rate": 67,
+          "profile_image": "https://www.gravatar.com/avatar/0f018a947c8dc646fa13dd720cd8613f?s=128&d=identicon&r=PG&f=1",
+          "display_name": "TheNobleSix",
+          "link": "https://stackoverflow.com/users/3052368/thenoblesix"
+        },
+        "is_answered": false,
+        "view_count": 1,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564578750,
+        "creation_date": 1564578750,
+        "question_id": 57291605,
+        "link": "https://stackoverflow.com/questions/57291605/what-happens-when-i-terminate-a-ksql-join",
+        "title": "What happens when I terminate a KSQL join"
+      },
+      {
+        "tags": [
+          "sql-server",
+          "function",
+          "tsql"
+        ],
+        "owner": {
+          "reputation": 106,
+          "user_id": 8181646,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/e14965ec2bf2f77f22103f08351e91f2?s=128&d=identicon&r=PG&f=1",
+          "display_name": "DavidWaldo",
+          "link": "https://stackoverflow.com/users/8181646/davidwaldo"
+        },
+        "is_answered": false,
+        "view_count": 28,
+        "answer_count": 0,
+        "score": 2,
+        "last_activity_date": 1564578748,
+        "creation_date": 1564577392,
+        "last_edit_date": 1564578748,
+        "question_id": 57291138,
+        "link": "https://stackoverflow.com/questions/57291138/t-sql-crazy-function-result",
+        "title": "T-SQL crazy function result"
+      },
+      {
+        "tags": [
+          "java",
+          "apache-poi",
+          "xls"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 9630571,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/ae28ea35570428dfb8f42757c75125b3?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Ankit Chaudhary",
+          "link": "https://stackoverflow.com/users/9630571/ankit-chaudhary"
+        },
+        "is_answered": false,
+        "view_count": 12,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564578747,
+        "creation_date": 1564578517,
+        "last_edit_date": 1564578747,
+        "question_id": 57291519,
+        "link": "https://stackoverflow.com/questions/57291519/excel-sheet-removing-zeros-for-number-starting-with-zeros",
+        "title": "Excel sheet removing zero(s) for number starting with zero(s)"
+      },
+      {
+        "tags": [
+          "swift"
+        ],
+        "owner": {
+          "reputation": 13,
+          "user_id": 11730788,
+          "user_type": "registered",
+          "profile_image": "https://lh5.googleusercontent.com/---2iHG54Vk4/AAAAAAAAAAI/AAAAAAAAEes/Ho_64a7xkSU/photo.jpg?sz=128",
+          "display_name": "Sreeram Ramakrishnan Ram",
+          "link": "https://stackoverflow.com/users/11730788/sreeram-ramakrishnan-ram"
+        },
+        "is_answered": true,
+        "view_count": 22,
+        "accepted_answer_id": 57291604,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564578744,
+        "creation_date": 1563996082,
+        "last_edit_date": 1563997482,
+        "question_id": 57189885,
+        "link": "https://stackoverflow.com/questions/57189885/how-to-add-a-framework-to-a-file-in-the-sources-folder-of-xcode-playground",
+        "title": "How to add a framework to a file in the &quot;Sources&quot; folder of Xcode Playground?"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net",
+          "charts"
+        ],
+        "owner": {
+          "reputation": 356,
+          "user_id": 361839,
+          "user_type": "unregistered",
+          "accept_rate": 50,
+          "profile_image": "https://www.gravatar.com/avatar/90956a27bd5ca20a65aa9eb0e34b53cb?s=128&d=identicon&r=PG",
+          "display_name": "Testing123",
+          "link": "https://stackoverflow.com/users/361839/testing123"
+        },
+        "is_answered": false,
+        "view_count": 1059,
+        "answer_count": 3,
+        "score": 1,
+        "last_activity_date": 1564578741,
+        "creation_date": 1277847201,
+        "question_id": 3144923,
+        "link": "https://stackoverflow.com/questions/3144923/charting-for-an-asp-net-application",
+        "title": "Charting for an ASP.NET application"
+      },
+      {
+        "tags": [
+          "javascript",
+          "reactjs",
+          "authentication",
+          "auth0",
+          "react-router-dom"
+        ],
+        "owner": {
+          "reputation": 67,
+          "user_id": 2694488,
+          "user_type": "registered",
+          "accept_rate": 38,
+          "profile_image": "https://www.gravatar.com/avatar/8e4cf3cc6febc7240138c307d9ddeb43?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Some Guy",
+          "link": "https://stackoverflow.com/users/2694488/some-guy"
+        },
+        "is_answered": false,
+        "view_count": 12,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1564578740,
+        "creation_date": 1564578193,
+        "last_edit_date": 1564578410,
+        "question_id": 57291398,
+        "link": "https://stackoverflow.com/questions/57291398/react-router-dom-not-actually-creating-routes",
+        "title": "React-Router-DOM not actually creating routes?"
+      },
+      {
+        "tags": [
+          "xcode",
+          "uibutton",
+          "uicontrol"
+        ],
+        "owner": {
+          "reputation": 1975,
+          "user_id": 212292,
+          "user_type": "registered",
+          "accept_rate": 70,
+          "profile_image": "https://i.stack.imgur.com/SdpIO.png?s=128&g=1",
+          "display_name": "Felipe Ferri",
+          "link": "https://stackoverflow.com/users/212292/felipe-ferri"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564578736,
+        "creation_date": 1564578736,
+        "question_id": 57291602,
+        "link": "https://stackoverflow.com/questions/57291602/uibutton-text-with-horizontal-alignment-set-to-fill-not-filling-the-view-on-xc",
+        "title": "UIButton text with horizontal alignment set to &quot;fill&quot; not filling the view on Xcode storyboard"
+      },
+      {
+        "tags": [
+          "sql",
+          "oracle",
+          "date",
+          "difference"
+        ],
+        "owner": {
+          "reputation": 7,
+          "user_id": 7968605,
+          "user_type": "registered",
+          "profile_image": "https://lh6.googleusercontent.com/-F66bNiYq5YI/AAAAAAAAAAI/AAAAAAAAAME/IFwpTjwIDlA/photo.jpg?sz=128",
+          "display_name": "Abhijit jadhav",
+          "link": "https://stackoverflow.com/users/7968605/abhijit-jadhav"
+        },
+        "is_answered": false,
+        "view_count": 13,
+        "answer_count": 3,
+        "score": 1,
+        "last_activity_date": 1564578736,
+        "creation_date": 1564578508,
+        "question_id": 57291515,
+        "link": "https://stackoverflow.com/questions/57291515/is-there-any-function-to-substract-date-in-sql",
+        "title": "Is there any function to substract date in SQL"
+      },
+      {
+        "tags": [
+          "c#",
+          "windows-10",
+          "iis-10"
+        ],
+        "owner": {
+          "reputation": 6,
+          "user_id": 10873185,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/7739cc96ae39e2886ec2fba6f7dcc561?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Jenius1",
+          "link": "https://stackoverflow.com/users/10873185/jenius1"
+        },
+        "is_answered": false,
+        "view_count": 8,
+        "closed_date": 1564567968,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564578735,
+        "creation_date": 1564567653,
+        "last_edit_date": 1564578735,
+        "question_id": 57288286,
+        "link": "https://stackoverflow.com/questions/57288286/iis-and-desktop-windows-10-workerprocesss-getrequests-method-crashes-with-noti",
+        "closed_reason": "duplicate",
+        "title": "IIS and desktop Windows 10. WorkerProcess&#39;s GetRequests method crashes with NotImplemented exception"
+      },
+      {
+        "tags": [
+          "python",
+          "arrays",
+          "list",
+          "dictionary"
+        ],
+        "owner": {
+          "reputation": 11,
+          "user_id": 11857780,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/c0b6e2f40be38871e5072c06c25c2608?s=128&d=identicon&r=PG&f=1",
+          "display_name": "DerDressing",
+          "link": "https://stackoverflow.com/users/11857780/derdressing"
+        },
+        "is_answered": true,
+        "view_count": 26,
+        "answer_count": 3,
+        "score": 2,
+        "last_activity_date": 1564578734,
+        "creation_date": 1564578174,
+        "question_id": 57291390,
+        "link": "https://stackoverflow.com/questions/57291390/how-to-assign-an-array-two-dimensional-list-to-a-dict-in-python",
+        "title": "How to assign an array (two-dimensional list) to a dict in Python?"
+      },
+      {
+        "tags": [
+          "c#"
+        ],
+        "owner": {
+          "reputation": 6,
+          "user_id": 6108033,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/6fe9bc20032c4d6f80ff267df4450056?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Dhanush Kodi",
+          "link": "https://stackoverflow.com/users/6108033/dhanush-kodi"
+        },
+        "is_answered": false,
+        "view_count": 2,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564578734,
+        "creation_date": 1564578734,
+        "question_id": 57291599,
+        "link": "https://stackoverflow.com/questions/57291599/how-to-avoid-format-in-xdocument-parsestrhtml",
+        "title": "How to avoid format in &quot;XDocument.Parse(strHtml)&quot;"
+      },
+      {
+        "tags": [
+          "reactjs"
+        ],
+        "owner": {
+          "reputation": 173,
+          "user_id": 4288213,
+          "user_type": "registered",
+          "accept_rate": 65,
+          "profile_image": "https://i.stack.imgur.com/xwKXu.jpg?s=128&g=1",
+          "display_name": "PHP dev",
+          "link": "https://stackoverflow.com/users/4288213/php-dev"
+        },
+        "is_answered": false,
+        "view_count": 14,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1564578733,
+        "creation_date": 1564578548,
+        "question_id": 57291532,
+        "link": "https://stackoverflow.com/questions/57291532/trying-to-change-the-text-using-onclick-in-react-js",
+        "title": "Trying to change the text using onclick in React JS"
+      },
+      {
+        "tags": [
+          "google-cloud-platform"
+        ],
+        "owner": {
+          "reputation": 12686,
+          "user_id": 383087,
+          "user_type": "registered",
+          "accept_rate": 89,
+          "profile_image": "https://i.stack.imgur.com/J4W5G.jpg?s=128&g=1",
+          "display_name": "Evgeni Dimitrov",
+          "link": "https://stackoverflow.com/users/383087/evgeni-dimitrov"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564578733,
+        "creation_date": 1564568859,
+        "last_edit_date": 1564578733,
+        "question_id": 57288659,
+        "link": "https://stackoverflow.com/questions/57288659/google-cloud-platform-api-list-used-zones-for-compute-engines",
+        "title": "Google Cloud Platform API - list used zones for compute engines"
+      },
+      {
+        "tags": [
+          "java",
+          "json",
+          "serialization",
+          "jackson",
+          "deserialization"
+        ],
+        "owner": {
+          "reputation": 9,
+          "user_id": 1842487,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/86836d20ba778a0f43441487d6de5fcd?s=128&d=identicon&r=PG",
+          "display_name": "Saurav Kumar Singh",
+          "link": "https://stackoverflow.com/users/1842487/saurav-kumar-singh"
+        },
+        "is_answered": false,
+        "view_count": 27,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564578732,
+        "creation_date": 1564553392,
+        "last_edit_date": 1564578732,
+        "question_id": 57284284,
+        "link": "https://stackoverflow.com/questions/57284284/ignore-jsondeserializer-when-deserialising-sub-classes-objects",
+        "title": "Ignore JsonDeserializer when deserialising sub classes objects"
+      },
+      {
+        "tags": [
+          "regex",
+          "jmeter",
+          "guid"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11863543,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/2f9f758a2936e5e825a2beb711a0a541?s=128&d=identicon&r=PG&f=1",
+          "display_name": "KKS",
+          "link": "https://stackoverflow.com/users/11863543/kks"
+        },
+        "is_answered": false,
+        "view_count": 9,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564578731,
+        "creation_date": 1564572595,
+        "last_edit_date": 1564578731,
+        "question_id": 57289742,
+        "link": "https://stackoverflow.com/questions/57289742/regex-not-working-during-execution-of-dynamic-guid-while-testing-a-web-applicati",
+        "title": "Regex not working during execution of Dynamic GUID while testing a web application using Jmeter? Could anyone assist me on this pls"
+      },
+      {
+        "tags": [
+          "angular"
+        ],
+        "owner": {
+          "reputation": 159,
+          "user_id": 6569899,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/0e3c4e8b69dad8a1905bc3ff94b4e0f5?s=128&d=identicon&r=PG&f=1",
+          "display_name": "afriedman111",
+          "link": "https://stackoverflow.com/users/6569899/afriedman111"
+        },
+        "is_answered": false,
+        "view_count": 48,
+        "answer_count": 3,
+        "score": 0,
+        "last_activity_date": 1564578728,
+        "creation_date": 1564438393,
+        "last_edit_date": 1564511999,
+        "question_id": 57262002,
+        "link": "https://stackoverflow.com/questions/57262002/lazy-load-module-with-route-params-and-named-router-outlet",
+        "title": "Lazy load module with route params and named router outlet"
+      },
+      {
+        "tags": [
+          "amazon-web-services",
+          "apache-spark",
+          "amazon-s3",
+          "pyspark",
+          "emr"
+        ],
+        "owner": {
+          "reputation": 46,
+          "user_id": 8719069,
+          "user_type": "registered",
+          "accept_rate": 0,
+          "profile_image": "https://www.gravatar.com/avatar/8d49b167fa7e9a337c1d2a9974db056b?s=128&d=identicon&r=PG&f=1",
+          "display_name": "JanBennk",
+          "link": "https://stackoverflow.com/users/8719069/janbennk"
+        },
+        "is_answered": false,
+        "view_count": 301,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564578725,
+        "creation_date": 1524405785,
+        "question_id": 49966787,
+        "link": "https://stackoverflow.com/questions/49966787/aws-emr-python-pyspark-script-in-emr-steps",
+        "title": "AWS EMR, python pyspark script in EMR steps"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "kotlin",
+          "android-developer-api"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11863976,
+          "user_type": "registered",
+          "profile_image": "https://lh4.googleusercontent.com/-O-K4mjKgU7M/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdOhjs_doJ1KOyMzfUyWvCuFXMsGg/photo.jpg?sz=128",
+          "display_name": "Sagar wankhede",
+          "link": "https://stackoverflow.com/users/11863976/sagar-wankhede"
+        },
+        "is_answered": false,
+        "view_count": 26,
+        "closed_date": 1564578515,
+        "answer_count": 0,
+        "score": -3,
+        "last_activity_date": 1564578724,
+        "creation_date": 1564577863,
+        "last_edit_date": 1564578724,
+        "question_id": 57291293,
+        "link": "https://stackoverflow.com/questions/57291293/how-to-create-a-service-that-stops-the-activity-of-other-app",
+        "closed_reason": "too broad",
+        "title": "How to create a service that stops the activity of other app"
+      },
+      {
+        "tags": [
+          "javascript",
+          "audio"
+        ],
+        "owner": {
+          "reputation": 33256,
+          "user_id": 169992,
+          "user_type": "registered",
+          "accept_rate": 83,
+          "profile_image": "https://i.stack.imgur.com/3bFW2.png?s=128&g=1",
+          "display_name": "Lance Pollard",
+          "link": "https://stackoverflow.com/users/169992/lance-pollard"
+        },
+        "is_answered": false,
+        "view_count": 22,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1564578723,
+        "creation_date": 1564577767,
+        "question_id": 57291261,
+        "link": "https://stackoverflow.com/questions/57291261/how-to-keep-song-playing-between-refreshes-in-browser-in-javascript",
+        "title": "How to keep song playing between refreshes in browser in JavaScript"
+      },
+      {
+        "tags": [
+          "r",
+          "timestamp",
+          "sequence",
+          "xts"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11729674,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/-uzBlnvguyT8/AAAAAAAAAAI/AAAAAAAAAE8/Q6dDF3O7RGU/photo.jpg?sz=128",
+          "display_name": "DwImAwesome",
+          "link": "https://stackoverflow.com/users/11729674/dwimawesome"
+        },
+        "is_answered": true,
+        "view_count": 16,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1564578722,
+        "creation_date": 1564570515,
+        "question_id": 57289139,
+        "link": "https://stackoverflow.com/questions/57289139/how-to-convert-xts-timeseries-to-hourly-difference-from-000000",
+        "title": "How to convert xts timeseries to hourly difference from 00:00:00"
+      },
+      {
+        "tags": [
+          "python",
+          "scikit-learn",
+          "one-hot-encoding"
+        ],
+        "owner": {
+          "reputation": 951,
+          "user_id": 9585135,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/984d3d5cc5e70d696f0396485f8586db?s=128&d=identicon&r=PG&f=1",
+          "display_name": "ScalaBoy",
+          "link": "https://stackoverflow.com/users/9585135/scalaboy"
+        },
+        "is_answered": false,
+        "view_count": 5,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564578721,
+        "creation_date": 1564578289,
+        "question_id": 57291432,
+        "link": "https://stackoverflow.com/questions/57291432/how-to-pass-handle-unknown-ignore-to-the-trained-one-hot-encoder-of-sklearn",
+        "title": "How to pass handle_unknown=&#39;ignore&#39; to the trained one hot encoder of sklearn?"
+      },
+      {
+        "tags": [
+          "html",
+          "banner"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11863816,
+          "user_type": "registered",
+          "profile_image": "https://lh6.googleusercontent.com/-eWT2C173SBU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reaHkRFhxCpXxKPLlp7DpbcdRyWBQ/photo.jpg?sz=128",
+          "display_name": "Bob Stanek",
+          "link": "https://stackoverflow.com/users/11863816/bob-stanek"
+        },
+        "is_answered": false,
+        "view_count": 23,
+        "answer_count": 0,
+        "score": -4,
+        "last_activity_date": 1564578721,
+        "creation_date": 1564576019,
+        "last_edit_date": 1564578721,
+        "question_id": 57290724,
+        "link": "https://stackoverflow.com/questions/57290724/html-banner-one-submit-button-with-several-urls",
+        "title": "HTML banner: One Submit button with several URLs"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-edittext"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11863880,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mCZwTM00SfphdcuLHkfcV_HRDKDhy0AfKQ0lyj52g?sz=128",
+          "display_name": "sim_dong_hyeon",
+          "link": "https://stackoverflow.com/users/11863880/sim-dong-hyeon"
+        },
+        "is_answered": false,
+        "view_count": 29,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564578720,
+        "creation_date": 1564576792,
+        "last_edit_date": 1564578530,
+        "question_id": 57290963,
+        "link": "https://stackoverflow.com/questions/57290963/how-to-fix-text-change-listener-error-when-i-implement-it",
+        "title": "How to fix text change listener error when I implement it?"
+      },
+      {
+        "tags": [
+          "python",
+          "pandas",
+          "dataframe"
+        ],
+        "owner": {
+          "reputation": 129,
+          "user_id": 10094021,
+          "user_type": "registered",
+          "profile_image": "https://lh5.googleusercontent.com/-yCsekZ7uoOk/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7qSc4HNFSkBZmB4PgNj7yxF73f8EA/mo/photo.jpg?sz=128",
+          "display_name": "Msquare ",
+          "link": "https://stackoverflow.com/users/10094021/msquare"
+        },
+        "is_answered": false,
+        "view_count": 27,
+        "answer_count": 1,
+        "score": 0,
+        "last_activity_date": 1564578714,
+        "creation_date": 1564513026,
+        "last_edit_date": 1564575818,
+        "question_id": 57278394,
+        "link": "https://stackoverflow.com/questions/57278394/python-how-to-generate-additional-values-between-two-row-values-in-a-dataframe",
+        "title": "Python how to generate additional values between two row-values in a dataframe"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "android-studio"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11864036,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/a33a10c37430c70497028ce11b4531cb?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Ahmad Nabil",
+          "link": "https://stackoverflow.com/users/11864036/ahmad-nabil"
+        },
+        "is_answered": false,
+        "view_count": 14,
+        "answer_count": 1,
+        "score": -1,
+        "last_activity_date": 1564578714,
+        "creation_date": 1564578429,
+        "question_id": 57291480,
+        "link": "https://stackoverflow.com/questions/57291480/i-am-using-a-class-to-generate-a-device-uniqueid-how-do-i-retrieve-the-id-fro",
+        "title": "I am using a class to generate a device uniqueid .. how do I retrieve the id from this class?"
+      },
+      {
+        "tags": [
+          "html",
+          "css"
+        ],
+        "owner": {
+          "reputation": 70463,
+          "user_id": 227299,
+          "user_type": "registered",
+          "accept_rate": 72,
+          "profile_image": "https://www.gravatar.com/avatar/6483c2f0fcf64b578c55ca0df7e01096?s=128&d=identicon&r=PG",
+          "display_name": "Juan Mendes",
+          "link": "https://stackoverflow.com/users/227299/juan-mendes"
+        },
+        "is_answered": false,
+        "view_count": 30,
+        "answer_count": 3,
+        "score": 1,
+        "last_activity_date": 1564578714,
+        "creation_date": 1564577549,
+        "question_id": 57291190,
+        "link": "https://stackoverflow.com/questions/57291190/how-to-make-a-single-item-list-look-like-a-regular-paragraph-with-css-only",
+        "title": "How to make a single item list look like a regular paragraph with CSS only"
+      },
+      {
+        "tags": [
+          "java",
+          "android",
+          "imageview",
+          "filenames",
+          "imagebutton"
+        ],
+        "owner": {
+          "reputation": 4,
+          "user_id": 10150148,
+          "user_type": "registered",
+          "profile_image": "https://lh3.googleusercontent.com/-k1XLLXnWHs0/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7ruyAIliatwGpD94phH-BUaa3_F5Q/mo/photo.jpg?sz=128",
+          "display_name": "lulu",
+          "link": "https://stackoverflow.com/users/10150148/lulu"
+        },
+        "is_answered": false,
+        "view_count": 10,
+        "answer_count": 0,
+        "score": -1,
+        "last_activity_date": 1564578713,
+        "creation_date": 1564578107,
+        "last_edit_date": 1564578713,
+        "question_id": 57291370,
+        "link": "https://stackoverflow.com/questions/57291370/how-to-get-image-name-from-drawable-on-an-existing-imageview",
+        "title": "how to get image name from drawable on an existing imageview"
+      },
+      {
+        "tags": [
+          "c#",
+          "asp.net-core",
+          ".net-core",
+          "entity-framework-core"
+        ],
+        "owner": {
+          "reputation": 449,
+          "user_id": 6396354,
+          "user_type": "registered",
+          "accept_rate": 100,
+          "profile_image": "https://i.stack.imgur.com/MPqOG.jpg?s=128&g=1",
+          "display_name": "Morasiu",
+          "link": "https://stackoverflow.com/users/6396354/morasiu"
+        },
+        "is_answered": false,
+        "view_count": 4,
+        "answer_count": 0,
+        "score": 0,
+        "last_activity_date": 1564578712,
+        "creation_date": 1564578712,
+        "question_id": 57291585,
+        "link": "https://stackoverflow.com/questions/57291585/how-to-update-naviation-property-with-new-values-in-ef-core",
+        "title": "How to update naviation property with new values in EF Core?"
+      },
+      {
+        "tags": [
+          "google-bigquery"
+        ],
+        "owner": {
+          "reputation": 1,
+          "user_id": 11863316,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/c3aa892e5f39f43bd54395a8410e116a?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Ryan Lintern",
+          "link": "https://stackoverflow.com/users/11863316/ryan-lintern"
+        },
+        "is_answered": false,
+        "view_count": 15,
+        "answer_count": 2,
+        "score": 0,
+        "last_activity_date": 1564578711,
+        "creation_date": 1564569405,
+        "question_id": 57288824,
+        "link": "https://stackoverflow.com/questions/57288824/how-to-use-the-continuous-method-when-calculating-difference-between-two-dates",
+        "title": "How to use the continuous method when calculating difference between two dates?"
+      }
+    ]
+  }
