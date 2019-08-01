@@ -1,9 +1,7 @@
 import React from 'react';
-
 import './PageRenderer.css';
 import UserProfile from '../UserProfile/UserProfile.react';
 import QuestionAnswers from '../QuestionAnswers/QuestionAnswers.react';
-import Iterator from '../Iterator/Iterator.react';
 
 class PageRenderer extends React.Component {
     constructor(props) {
@@ -23,26 +21,23 @@ class PageRenderer extends React.Component {
     }
 
     render() {
+        if(this.props.list==='undefined'||this.props.list.length===0) return(<div>No Results</div>)
         if(this.state.action==="results"){
             return (
-                this.props.list.map((eachQuestion) => {
+                this.props.list.map((eachQuestion,index) => {
                 return (
-                    <div className='searchresults_wrapper'>
+                    <div className='searchresults_wrapper' key={index}>
                         <div className="container">
                             <div className="card bg-light row">
                                 <div className="card-body">
                                     <span className="float-left">
-                                        {eachQuestion.score}
+                                        Votes: {eachQuestion.score} 
                                     </span>
                                     <span className="float-right">
                                         <img onClick={()=>{this.setState({passObject: eachQuestion.owner,action: "user"})}} className="rounded" src = {eachQuestion.owner.profile_image} alt="AuthorDP" width="100"/>
                                     </span>
                                     <p className='font-weight-bold' onClick={()=>{this.setState({passObject: eachQuestion,action: "question"})}}>{eachQuestion.title}</p>
                                     <p className="text-muted">by {eachQuestion.owner.display_name}</p>
-                                    <div className="row">
-                                        <p class="col-sm-1">tags:</p>
-                                        <Iterator list={eachQuestion.tags}/>
-                                    </div>
                                     
                                 </div>
                             </div>
@@ -66,7 +61,7 @@ class PageRenderer extends React.Component {
                 <QuestionAnswers question = {this.state.passObject}/>
             </div>
             );
-        }       
+        }     
     }
 }
 

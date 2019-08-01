@@ -1,5 +1,4 @@
 import React from 'react';
-import face from '../face.jpg'
 import './UserProfile.css';
 
 class UserProfile extends React.Component {
@@ -11,6 +10,7 @@ class UserProfile extends React.Component {
         return (
             <div className='userprofile_wrapper'>
                 <div className="container">
+                <a href="/">BACK TO SEARCH</a>
                     <span className="float-left">
                         <img src={this.props.owner.profile_image} className="rounded" width="150" alt="User Picture" />
                     </span>

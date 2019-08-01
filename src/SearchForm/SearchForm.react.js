@@ -9,12 +9,7 @@ class SearchForm extends React.Component {
         this.state={
             tag: ""
         }
-        //this.tagInput = React.createRef();
     }
-
-    // handleSubmit = event => {
-    //     event.preventDefault();
-    // }
     handleChange = event => {
         let newTag = event.target.value;
         this.setState(prevState => ({tag: newTag}));

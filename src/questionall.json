@@ -603,31 +603,6 @@
       },
       {
         "tags": [
-          "python",
-          "pandas",
-          "dataframe"
-        ],
-        "owner": {
-          "reputation": 129,
-          "user_id": 10094021,
-          "user_type": "registered",
-          "profile_image": "https://lh5.googleusercontent.com/-yCsekZ7uoOk/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7qSc4HNFSkBZmB4PgNj7yxF73f8EA/mo/photo.jpg?sz=128",
-          "display_name": "Msquare ",
-          "link": "https://stackoverflow.com/users/10094021/msquare"
-        },
-        "is_answered": false,
-        "view_count": 27,
-        "answer_count": 1,
-        "score": 0,
-        "last_activity_date": 1564578714,
-        "creation_date": 1564513026,
-        "last_edit_date": 1564575818,
-        "question_id": 57278394,
-        "link": "https://stackoverflow.com/questions/57278394/python-how-to-generate-additional-values-between-two-row-values-in-a-dataframe",
-        "title": "Python how to generate additional values between two row-values in a dataframe"
-      },
-      {
-        "tags": [
           "java",
           "android",
           "android-studio"
@@ -673,33 +648,6 @@
         "question_id": 57291190,
         "link": "https://stackoverflow.com/questions/57291190/how-to-make-a-single-item-list-look-like-a-regular-paragraph-with-css-only",
         "title": "How to make a single item list look like a regular paragraph with CSS only"
-      },
-      {
-        "tags": [
-          "java",
-          "android",
-          "imageview",
-          "filenames",
-          "imagebutton"
-        ],
-        "owner": {
-          "reputation": 4,
-          "user_id": 10150148,
-          "user_type": "registered",
-          "profile_image": "https://lh3.googleusercontent.com/-k1XLLXnWHs0/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7ruyAIliatwGpD94phH-BUaa3_F5Q/mo/photo.jpg?sz=128",
-          "display_name": "lulu",
-          "link": "https://stackoverflow.com/users/10150148/lulu"
-        },
-        "is_answered": false,
-        "view_count": 10,
-        "answer_count": 0,
-        "score": -1,
-        "last_activity_date": 1564578713,
-        "creation_date": 1564578107,
-        "last_edit_date": 1564578713,
-        "question_id": 57291370,
-        "link": "https://stackoverflow.com/questions/57291370/how-to-get-image-name-from-drawable-on-an-existing-imageview",
-        "title": "how to get image name from drawable on an existing imageview"
       },
       {
         "tags": [
