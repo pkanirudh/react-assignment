@@ -13,7 +13,7 @@ const Iterator = (props) => {
     return (
             props.list.map((listItem) => {
             return (
-                <div className='p-md-1 m-md-1 bg-secondary col-sm-2 text-white'>
+                <div className='p-md-1 m-md-1'>
                     {listItem}
                 </div>
             );
