@@ -7,18 +7,18 @@ class PageRenderer extends React.Component {
     constructor(props) {
         super(props);
         this.state={
-            action: "results",
-            passObject: {}
+            action: this.props.actionFromSearch,
+            passObject: {},
+            color: "bg-light"
         }
     }
 
-    goToUser(obj){
-        this.setState({passObject:obj, action:"user"});
+    componentDidMount(){
+        this.setState({action: this.props.actionFromSearch})
+        console.log(this.props.actionFromSearch)
+        console.log("mounted render")
     }
 
-    goToQuestion(obj){
-        this.setState({passObject:obj, action:"question"});
-    }
 
     render() {
         if(this.props.list==='undefined'||this.props.list.length===0) return(<div>No Results</div>)
@@ -28,19 +28,22 @@ class PageRenderer extends React.Component {
                 return (
                     <div className='searchresults_wrapper' key={index}>
                         <div className="container">
-                            <div className="card bg-light row">
-                                <div className="card-body">
+                            
+                            <div className ={eachQuestion.is_answered ? "bg-success card row text-white" : "bg-light card row" }>  
+                                    <div className="card-body">
                                     <span className="float-left">
                                         Votes: {eachQuestion.score} 
                                     </span>
                                     <span className="float-right">
-                                        <img onClick={()=>{this.setState({passObject: eachQuestion.owner,action: "user"})}} className="rounded" src = {eachQuestion.owner.profile_image} alt="AuthorDP" width="100"/>
+                                        <img  className="rounded" src = {eachQuestion.owner.profile_image} alt="AuthorDP" width="100"/>
                                     </span>
-                                    <p className='font-weight-bold' onClick={()=>{this.setState({passObject: eachQuestion,action: "question"})}}>{eachQuestion.title}</p>
-                                    <p className="text-muted">by {eachQuestion.owner.display_name}</p>
+                                    <p className='font-weight-bold _link' onClick={()=>{this.setState({passObject: eachQuestion,action: "question"})}}>{eachQuestion.title}</p>
+                                    <small>by</small><small className="_link" onClick={()=>{this.setState({passObject: eachQuestion.owner,action: "user"})}}> {eachQuestion.owner.display_name}</small>
                                     
-                                </div>
+                                    </div>
                             </div>
+                                
+                            
                         </div>
                     </div>
                 );
@@ -51,6 +54,9 @@ class PageRenderer extends React.Component {
         else if(this.state.action==="user"){
             return(
                 <div>
+                    <p>{this.props.actionFromSearch}</p>
+                    <p>{this.state.action}</p>
+                    <p className="text-primary _link" onClick={()=>{this.setState({action: "results"})}}>BACK TO SEARCH</p>
                     <UserProfile owner = {this.state.passObject}/>
                 </div>
             );
@@ -58,6 +64,7 @@ class PageRenderer extends React.Component {
         else if(this.state.action==="question"){
             return (
             <div>
+                <p className="text-primary _link" onClick={()=>{this.setState({action: "results"})}}>BACK TO SEARCH</p>
                 <QuestionAnswers question = {this.state.passObject}/>
             </div>
             );

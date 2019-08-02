@@ -8,7 +8,14 @@
   height: 40vmin;
   pointer-events: none;
 }
+div, span{
+  margin: 10pt;
+}
 
+._link:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

@@ -48,8 +48,8 @@ class SearchResultsCopy extends React.Component {
         else{
             return (
             <div className='searchresultscopy_wrapper'>
-                <button onClick={this.searchWithTag}>Search</button>
-                <PageRenderer list = {this.state.list}/>
+                <button className="btn btn-primary" onClick={this.searchWithTag}>Search</button>
+                <PageRenderer list = {this.state.list} actionFromSearch="results"/>
             </div>
         );
         }

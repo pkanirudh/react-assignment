@@ -11,9 +11,9 @@ const Iterator = (props) => {
         );
     }
     return (
-            props.list.map((listItem) => {
+            props.list.map((listItem,index) => {
             return (
-                <div className='p-md-1 m-md-1'>
+                <div key={index} className='p-md-1 m-md-1'>
                     {listItem}
                 </div>
             );
